@@ -1,4 +1,4 @@
-package L18.hangman;
+package L18;
 
 import org.junit.jupiter.api.Test;
 
