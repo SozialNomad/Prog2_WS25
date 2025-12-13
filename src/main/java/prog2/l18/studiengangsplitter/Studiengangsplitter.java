@@ -1,4 +1,4 @@
-package prog2.L18;
+package prog2.l18.studiengangsplitter;
 
 import java.io.*;
 
