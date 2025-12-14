@@ -1,8 +1,7 @@
-package prog2.l19;
+package prog2.l19.galgenmännchenObj;
 
 import java.io.*;
 import java.net.Socket;
-import java.io.Serializable;
 import java.util.Scanner;
 
 public class ClientObj{
